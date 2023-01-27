@@ -1,0 +1,39 @@
+20234126	12:41:33	 9e919dc6-495c-4813-a6f1-0ea4263696a1	 Error: Not Allowed by CORS	 OPTIONS	 /	 https://www.google.com 
+20234126	12:41:33	 dbc6143f-bc8b-4510-a79d-919d128da64e	 Error: Not Allowed by CORS	 GET	 /	 https://www.google.com 
+20231926	16:19:28	 2fcbd02a-7624-4ed3-9a03-759a6baf99ae	 ReferenceError: user is not defined	 GET	 /users	 undefined 
+20232126	16:21:25	 57ed3b52-2a95-4db3-aad4-501a89f2e080	 ReferenceError: user is not defined	 GET	 /users	 undefined 
+20232926	16:29:05	 163bf80f-5d61-455c-8ae0-3a4ca0a87b73	 ValidationError: User, validation failed: passwrod: please enter your password	 POST	 /users	 undefined 
+20233026	16:30:33	 3dcc3967-02e4-4247-9987-7861e3ba8a65	 ValidationError: User, validation failed: passwrod: please enter your password	 POST	 /users	 undefined 
+20233026	16:30:50	 0372495d-adc6-49c4-86d5-897f0a9321f8	 ValidationError: User, validation failed: passwrod: please enter your password	 POST	 /users	 undefined 
+20233226	16:32:47	 47dced1c-a2ac-4eb5-89ee-5386dbdfb22b	 ValidationError: User, validation failed: passwrod: please enter your password	 POST	 /users	 undefined 
+20233326	16:33:46	 536a5415-2808-4a65-98d7-8755215c3824	 ValidationError: User, validation failed: passwrod: please enter your password	 POST	 /users	 undefined 
+20233526	16:35:26	 2f1c6175-d2ca-49bc-8dae-007fe23828d6	 ValidationError: User, validation failed: passwrod: please enter your password	 POST	 /users	 undefined 
+20234226	16:42:00	 41ff52f8-08cb-4076-be98-5f9f84faba7b	 ValidationError: User, validation failed: passwrod: please enter your password	 POST	 /users	 undefined 
+20234426	16:44:39	 2380d524-2414-4494-88f0-bd5ed514b358	 ReferenceError: user is not defined	 GET	 /users	 undefined 
+20234626	16:46:12	 7f277c57-474c-4aa8-a5eb-9743ab5ec644	 ReferenceError: user is not defined	 GET	 /users	 undefined 
+20235026	16:50:50	 a2746544-52b6-49ed-8e60-b42975682c3d	 ValidationError: User, validation failed: passwrod: please enter your password	 POST	 /users	 undefined 
+20235126	16:51:46	 72d92eb7-b045-428d-b55d-041dc432523c	 ValidationError: User, validation failed: passwrod: please enter your password	 POST	 /users	 undefined 
+20235326	16:53:10	 05baa993-0da9-4306-9bab-d5f90da49ee0	 ValidationError: User, validation failed: passwrod: please enter your password	 POST	 /users	 undefined 
+20235326	16:53:30	 5fa6f964-ca9e-4201-bb9c-d6f339f8b75c	 ValidationError: User, validation failed: passwrod: please enter your password	 POST	 /users	 undefined 
+20235826	16:58:02	 1c6e1f39-1c15-434c-9e5d-bd83a0d4437b	 ValidationError: User, validation failed: passwrod: please enter your password	 POST	 /users	 undefined 
+20235826	16:58:18	 5196e91d-cf99-4ed1-bb31-731558b41058	 ValidationError: User, validation failed: passwrod: please enter your password	 POST	 /users	 undefined 
+20231126	17:11:57	 d5c5c127-8a4e-4b74-b715-3e68166f7758	 ValidationError: User, validation failed: passwrod: Path `passwrod` is required.	 POST	 /users	 undefined 
+20231126	17:11:59	 81ec291d-6fd8-42fc-9d2a-a1a6cb860148	 ValidationError: User, validation failed: passwrod: Path `passwrod` is required.	 POST	 /users	 undefined 
+20231226	17:12:37	 0c171301-e91e-47a9-a83a-ca0c35db5ef1	 ValidationError: User, validation failed: passwrod: Path `passwrod` is required.	 POST	 /users	 undefined 
+20231326	17:13:12	 1167ddd4-bfcf-41b5-9b0d-377d02a13ddf	 ValidationError: User, validation failed: password: Path `password` is required.	 POST	 /users	 undefined 
+20231326	17:13:31	 5f9cf4a8-0e3d-466c-b61f-9c7a7e5957d9	 ValidationError: User, validation failed: password: Path `password` is required.	 POST	 /users	 undefined 
+20231326	17:13:36	 f91cebc6-262e-4387-bf82-df08888b4c5e	 ValidationError: User, validation failed: password: Path `password` is required.	 POST	 /users	 undefined 
+20231426	17:14:23	 a01873c9-92b7-4879-8964-6498022c893a	 ValidationError: User validation failed: password: Path `password` is required.	 POST	 /users	 undefined 
+20233726	17:37:17	 5ce0b391-4cf4-4e40-829d-7fa70a03d649	 ValidationError: User validation failed: password: Path `password` is required.	 POST	 /users	 undefined 
+20233926	17:39:04	 0f0c9631-726b-46a2-85e7-a87f674c9654	 ValidationError: User validation failed: password: Path `password` is required.	 POST	 /users	 undefined 
+20232127	11:21:09	 5606343e-c85d-465b-8609-4f055f8855bb	 Error: Cannot set headers after they are sent to the client	 PATCH	 /users	 undefined 
+20232127	11:21:30	 4c17c0f8-93a8-4a4a-b242-d1da848507fc	 Error: Cannot set headers after they are sent to the client	 PATCH	 /users	 undefined 
+20232727	11:27:41	 01444938-9e15-4c4f-8f97-89ae5ccb67dd	 TypeError: Cannot read properties of null (reading 'length')	 DELETE	 /users	 undefined 
+20232827	11:28:23	 cff26607-13ba-45df-9ba2-fbe2d597f5a5	 TypeError: Cannot read properties of null (reading 'length')	 DELETE	 /users	 undefined 
+20232827	11:28:55	 52293e7f-f5c2-4370-a6de-8d3954da1444	 TypeError: Cannot read properties of null (reading 'length')	 DELETE	 /users	 undefined 
+20233027	11:30:11	 abf743c8-40f7-4cc3-a789-f58c75bf85b9	 TypeError: Cannot read properties of null (reading 'length')	 DELETE	 /users	 undefined 
+20233127	11:31:35	 09740913-3583-45f5-bbea-67ab69e9b2e7	 ObjectParameterError: Parameter "filter" to findOne() must be an object, got 63d374465f0dea8b93c078ed	 DELETE	 /users	 undefined 
+20233227	11:32:04	 bcdac615-bb2c-4d0c-b9d3-5c0746347487	 ObjectParameterError: Parameter "filter" to findOne() must be an object, got 63d374465f0dea8b93c078ed	 DELETE	 /users	 undefined 
+20233227	11:32:40	 238fb9ae-1198-4071-9d5f-44cee1369157	 ReferenceError: Cannot access 'user' before initialization	 DELETE	 /users	 undefined 
+20233927	11:39:08	 6b8a2a57-7429-460c-b4b1-3b479312f3af	 ObjectParameterError: Parameter "filter" to findOne() must be an object, got 63d374465f0dea8b93c078ed	 DELETE	 /users	 undefined 
+20234127	11:41:28	 38616d2c-1fbe-4d7d-8d44-71aa24cf2870	 ObjectParameterError: Parameter "filter" to findOne() must be an object, got 63d374465f0dea8b93c078ed	 DELETE	 /users	 undefined 
